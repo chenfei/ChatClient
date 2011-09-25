@@ -23,14 +23,14 @@
 		2E32D36A142ECAB000B68788 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2E32D36C142ECAB000B68788 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2E32D36E142ECAB000B68788 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		2E32D372142ECAB000B68788 /* ChatClient-Info.plist */ = {isa = PBXFileReference; path = "ChatClient-Info.plist"; sourceTree = "<group>"; };
+		2E32D372142ECAB000B68788 /* ChatClient-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ChatClient-Info.plist"; sourceTree = "<group>"; };
 		2E32D374142ECAB000B68788 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2E32D376142ECAB000B68788 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2E32D378142ECAB000B68788 /* ChatClient-Prefix.pch */ = {isa = PBXFileReference; path = "ChatClient-Prefix.pch"; sourceTree = "<group>"; };
-		2E32D379142ECAB000B68788 /* ChatClientAppDelegate.h */ = {isa = PBXFileReference; path = ChatClientAppDelegate.h; sourceTree = "<group>"; };
+		2E32D378142ECAB000B68788 /* ChatClient-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ChatClient-Prefix.pch"; sourceTree = "<group>"; };
+		2E32D379142ECAB000B68788 /* ChatClientAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChatClientAppDelegate.h; sourceTree = "<group>"; };
 		2E32D37A142ECAB000B68788 /* ChatClientAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChatClientAppDelegate.m; sourceTree = "<group>"; };
 		2E32D37D142ECAB000B68788 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		2E32D37F142ECAB000B68788 /* ChatClientViewController.h */ = {isa = PBXFileReference; path = ChatClientViewController.h; sourceTree = "<group>"; };
+		2E32D37F142ECAB000B68788 /* ChatClientViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ChatClientViewController.h; sourceTree = "<group>"; };
 		2E32D380142ECAB000B68788 /* ChatClientViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ChatClientViewController.m; sourceTree = "<group>"; };
 		2E32D383142ECAB000B68788 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ChatClientViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
